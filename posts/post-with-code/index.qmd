@@ -1,6 +1,6 @@
 ---
 title: "Post With Code"
-author: "Harlow Malloc"
+author: "Kelly Wenqian Chen"
 date: "2025-08-10"
 categories: [news, code, analysis]
 image: "image.jpg"
