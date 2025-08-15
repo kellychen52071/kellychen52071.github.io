@@ -1,0 +1,15 @@
+---
+title: "Kelly Wenqian Chen"
+image: headshot.JPG
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/wenqian-chen/
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=evjoj8sAAAAJ&hl=en
+---
+
+I’m a research scientist with 7+ years of experience in structural biology, biochemistry, molecular biology, and cell biology. My work spans multidisciplinary projects, leading to six publications and two manuscripts in preparation. Passionate about learning and problem-solving, I thrive on applying my skills to tackle complex scientific challenges. Outside the lab, I enjoy traveling, photography, reading, and running.
